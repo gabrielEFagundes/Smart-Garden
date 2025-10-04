@@ -28,3 +28,7 @@ Um projeto feito em C++, no Tinkercad, de uma horta smart.
 ## ‼️ DISCLAIMER
 
 #### O projeto não está pronto, mas penso em fazer várias modificações para melhorar o projeto.
+
+## Licença
+
+A licença usada neste projeto é a MIT, fica a vontade pra usar o projeto como quiser!
